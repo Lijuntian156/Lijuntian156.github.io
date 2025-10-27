@@ -1,5 +1,5 @@
 ---
-layout: homepage
+## homepage
 ---
 
 ## 个人介绍
